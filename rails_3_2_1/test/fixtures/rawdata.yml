@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date: 2014-03-01
+  open_price: 9.99
+  high_price: 9.99
+  low_price: 9.99
+  close_price: 9.99
+  volume: 
+  adjusted_close_price: 9.99
+
+two:
+  date: 2014-03-01
+  open_price: 9.99
+  high_price: 9.99
+  low_price: 9.99
+  close_price: 9.99
+  volume: 
+  adjusted_close_price: 9.99

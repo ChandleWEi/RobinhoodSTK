@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  stock_map_id: 1
+  record_date: 2014-03-06
+  dif: 9.99
+
+two:
+  stock_map_id: 1
+  record_date: 2014-03-06
+  dif: 9.99
